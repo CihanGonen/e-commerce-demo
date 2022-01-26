@@ -1,0 +1,1 @@
+Projeyi lokalde çalıştırabilmek için projeyi indirdikten sonra ana dizinde npm install komutunu kullanmak. Paketlerin indirilmesi tamamlandıktan sonra ise npm start ile projeyi çalıştırmak yeterli olacaktır.
